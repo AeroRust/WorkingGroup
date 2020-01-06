@@ -1,8 +1,8 @@
-- [] ARINC 429 parser
-- [] DO-178C
-- [] Flight C
+- [ ] ARINC 429 parser
+- [ ] DO-178C
+- [ ] Flight C
 
 ### Domains
-- [] Computational fluid dynamics
+- [ ] Computational fluid dynamics
 
 
