@@ -6,7 +6,7 @@ Ideas, ongoing work, mentors, everything is in here!
 
 You can find out more in our:
 
-- [![Discord server](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/RXNsMXc)
+- [![Discord server](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/Xd98GjuEhu)
 
 - [![Wiki](https://img.shields.io/badge/AeroRust-Wiki-important?style=flat-square)](https://github.com/AeroRust/WorkingGroup/wiki)
 
